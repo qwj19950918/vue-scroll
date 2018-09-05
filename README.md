@@ -4,7 +4,7 @@
 
 # 起始
 
-<div align=center><img width="400" height="150" src="https://github.com/qwj19950918/vue-scroll/blob/master/src/assets/veer-302875664.jpg"/></div>
+<div align=center><img width="800" height="558" src="https://github.com/qwj19950918/vue-scroll/blob/master/src/assets/veer-302875664.jpg"/></div>
 
 > 接到需求第一时间想到的时候找个插件来做，但是网上关于VUE的scroll并不好用，JQ的倒是很多，但是本人是在不喜欢用JQ，于是就自己搞。
 
